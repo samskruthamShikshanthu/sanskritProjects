@@ -15,11 +15,11 @@
 
 # ऋतवः
 
-                                     (16-30) to (1-15)
+                                       (16-30)  to (1-15)
 - Pre-Winter - हेमन्तः - मार्गशीर्ष: + पौष: - November to January
-- Winter  - शिशिर: - माघ: + फल्गुन: - January to Febrauary
+- Winter  - शिशिर: - माघ: + फल्गुन: - January to March
 - Spring - वसन्त: - चैत्र: + वैशाख: - March to May
-- Summer - ग्रीष्म: - ज्येष्ठ: + आषाढ: - May to June
+- Summer - ग्रीष्म: - ज्येष्ठ: + आषाढ: - May to July
 - Rainy - वर्षा - श्रावण: + भाद्रपद: - July to September
 - Autum - शरद् - अश्विन: + कार्तिक: - September to November
 
