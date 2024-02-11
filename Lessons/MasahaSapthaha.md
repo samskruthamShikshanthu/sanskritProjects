@@ -1,17 +1,17 @@
 # मासाः
-- days:(1-15)  - (16-30)
-- January - December - पौष:
-- Febrauary - January - माघ:
-- March - Febrauary - फाल्गुनः 
-- April - March - चैत्र:
-- May - April - वैशाख:
-- June - May  - ज्येष्ठ:
-- July - June - आषाढ:
-- August - July - श्रावण: 
-- September - August - भाद्रपद:
-- October - September - अश्विन:
-- November - October - कार्तिक:
-- December - November - मार्गशीर्ष:
+- days:(16-30) - (1-15)
+- December - January -  पौष:
+- January - Febrauary - माघ:
+- Febrauary - March - फाल्गुनः 
+- March - April - चैत्र:
+- April - May - वैशाख:
+- May  - June - ज्येष्ठ:
+- June - July - आषाढ:
+- July - August - श्रावण: 
+- August - September - भाद्रपद:
+- September - October - अश्विन:
+- October - November - कार्तिक:
+- November - December - मार्गशीर्ष:
 
 # ऋतवः
 
