@@ -1,5 +1,5 @@
 # मासाः
-- days:(16-30) - (1-15)
+- రోజులు :(16-30) - (1-15)
 - December - January -  पौष:
 - January - Febrauary - माघ:
 - Febrauary - March - फाल्गुनः 
@@ -12,6 +12,7 @@
 - September - October - अश्विन:
 - October - November - कार्तिक:
 - November - December - मार्गशीर्ष:
+
 
 # ऋतवः
 
