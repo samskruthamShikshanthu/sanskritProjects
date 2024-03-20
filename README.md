@@ -8,6 +8,7 @@ Sources:
 6. https://www.youtube.com/watch?v=o9rWaaKPBO0 - Learn Sanskritam
 7. https://www.youtube.com/watch?v=JDPnk-6xlTU - Telugu online Teaching
 8. https://www.youtube.com/watch?v=ti19epila14&ab_channel=SwapnaTeluguVideos - Swapna Telugu videos
+10. https://www.bethearya.com/2019/11/Learn-Sanskrit-Class1.html
 
 # ThankYou
 > Rajesh Rachabattuni
