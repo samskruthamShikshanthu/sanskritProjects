@@ -29,3 +29,5 @@
 @@ text in purple (and bold)@@
 ```
 <font color="green"> एकं उध्यानं आसीत् | </font>
+<span style="color: green"> एकं उध्यानं आसीत् | </span>
+
