@@ -28,6 +28,8 @@
 # text in gray
 @@ text in purple (and bold)@@
 ```
+
+$${\color{red}एकं उध्यानं आसीत्}$$	
 <font color="green"> एकं उध्यानं आसीत् | </font>
 <span style="color: green"> एकं उध्यानं आसीत् | </span>
 
