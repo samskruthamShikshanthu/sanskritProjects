@@ -47,4 +47,4 @@
 कृष्णफलकम् - Black board    
 <img src="pictures/board.png" width="160" height="120" />  
 
-Images from https://pixabay.com/
+
