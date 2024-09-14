@@ -6,7 +6,8 @@
 <img src="pictures/rubber-band.jpg" width="160" height="120" />   
 निर्यास: - జిగురు (Gum)
 <img src="pictures/resin.jpg" width="160" height="120" />  
-पत्रभार: -  పేపర్ వెయిట్ (Paper weight)  
+पत्रभार: -  Paper weight
+<img src="pictures/paperweight.jpg" width="160" height="120" />  
 उत्पीठिका -  బల్ల (Table)
 <img src="pictures/table.png" width="160" height="120" />   
 अन्तः पेटिका -  సొరుగు (Desk/draw)   
