@@ -43,7 +43,9 @@
 लेखनपीठम् - వ్రాత బల్ల 
 <img src="pictures/school.jpg" width="160" height="120" />  
 
-दंशकम् - jam clip    
+लेखनी - Pen 
+कन्दुक: - Ball
+घटी - Watch 
 कृष्णफलकम् - Black board    
 <img src="pictures/board.png" width="160" height="120" />  
 
