@@ -2,7 +2,7 @@
 
 सुधाखण्ड: - సుద్ధముక్క 
 <img src="pictures/street-chalk.jpg" width="160" height="120" />    
-रब्बरबन्ध: (मृदुबन्ध:) - Rubber band  
+मृदुबन्ध: - Rubber band  
 <img src="pictures/rubber-band.jpg" width="160" height="120" />   
 निर्यास: - జిగురు (Gum)
 <img src="pictures/resin.jpg" width="160" height="120" />  
