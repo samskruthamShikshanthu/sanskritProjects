@@ -26,3 +26,5 @@
 ७. <img src="pictures/peshakam.png" width="160" height="120" /> (पेषकम्)  
 ८. <img src="pictures/karyanam.jpg" width="160" height="120" /> (कार्-यानम्)  
 ९. <img src="pictures/chatram.png" width="160" height="120" /> (छत्रम्)
+
+<sub><sup>Picture source: ebay, pixel, pixabay</sup></sub>
