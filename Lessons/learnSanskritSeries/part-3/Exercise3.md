@@ -16,7 +16,7 @@
 ४. एष: गणेश:  
 ५. एतत् पर्णम्  
 
-**उदाहरणं दृष्ट्वा वाक्यानी लिखतु(एष:, एषा, एतत्)**  
+**उदाहरणं दृष्ट्वा वाक्यानी वदतु (एष:, एषा, एतत्)**  
 १. <img src="pictures/aapnaha.jpg" width="160" height="120" />   - **एष: आपण:(store)**   
 २. <img src="pictures/agnipetika.jpg" width="160" height="120" /> (अग्निपेटिका)  
 ३. <img src="pictures/baashpasthali.jpg" width="160" height="120" /> (बाष्पस्थली)  
