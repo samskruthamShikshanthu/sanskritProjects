@@ -16,7 +16,7 @@
 ४. स: चमस:  
 ५. तत् पर्णम्  
 
-**उदाहरणं दृष्ट्वा वाक्यानी लिखतु(स:, सा, तत्)**  
+**उदाहरणं दृष्ट्वा वाक्यानी लिखतु(एष:, एषा, एतत्)**  
 १. <img src="pictures/vrukshaha.jpg" width="160" height="120" />   - **स: वृक्ष:**   
 २. <img src="pictures/darpanaha.jpg" width="160" height="120" /> (दर्पण:)  
 ३. <img src="pictures/ghataha.jpg" width="160" height="120" /> (घट:)  
