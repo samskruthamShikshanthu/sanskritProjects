@@ -12,6 +12,13 @@ Sources:
 
 # ThankYou
 > Rajesh Rachabattuni
-    >> Samskrita Bharati, USA
+    >> Samskrita Bharati, USA  
 
-Images from https://pixabay.com/
+> Also my sincere thank you to Samskrita Bharati, USA.  
+
+(not sponsered content)
+
+Images from  
+https://pixabay.com/  
+https://www.pexels.com/  
+https://dreamina.capcut.com/ai-tool/image/generate
