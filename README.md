@@ -11,10 +11,8 @@ Sources:
 10. https://www.bethearya.com/2019/11/Learn-Sanskrit-Class1.html
 
 # ThankYou
-> Rajesh Rachabattuni
-    >> Samskrita Bharati, USA  
 
-> Also my sincere thank you to Samskrita Bharati, USA.  
+> Sincere thank you to Samskrita Bharati, USA.  
 
 (not sponsered content)
 
