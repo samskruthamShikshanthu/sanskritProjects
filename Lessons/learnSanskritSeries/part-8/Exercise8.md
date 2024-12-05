@@ -26,5 +26,5 @@
 (आपण: - Walmart)
 
 ### पञ्च वाक्यानी लिखन्तु |
-<img src="pictures/saraswati.jpg" width="3000" height="300" /> 
+<img src="pictures/saraswati.jpg" width="200" height="300" /> 
 
