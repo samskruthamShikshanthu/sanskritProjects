@@ -24,3 +24,7 @@
 
 <img src="pictures/walmart.jpg" width="160" height="120" />  
 (आपण: - Walmart)
+
+### पञ्च वाक्यानी लिखन्तु |
+<img src="pictures/saraswati.jpg" width="3000" height="300" /> 
+
