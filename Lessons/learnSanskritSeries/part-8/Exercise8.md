@@ -48,13 +48,19 @@
 ### प्रश्नं वदतु | उत्तरं अपि वदतु |
 
 भवत:/ भवत्या: नाम किम्?
+
 भवत:/भवत्या:  
-           > माता  
-           > विद्यालय:  
-           > ग्राम:  
-                    नाम किम्?  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (पाठशाला)  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (अम्बा)  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (लेखनी)  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(जङ्गम - दूरावाणी)  
+                    नाम किम्?
 
-### प्रश्नं वदतु | उत्तरं अपि वदतु |
+भवत:/भवत्या:  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (विद्यालय:)  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (ग्राम:)  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (जनक:)  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(कार्यालय:)  
+                    नाम किम्? 
 
-दशरथ: पुत्र: राम: |
-लव: पिता राम: |
+
