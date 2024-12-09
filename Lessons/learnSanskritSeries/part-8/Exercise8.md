@@ -49,7 +49,7 @@
 <img src="pictures/walmart.jpg" width="160" height="120" />  
 (आपण: - Walmart)
 
-### पञ्च वाक्यानी लिखन्तु |
+### पञ्च वाक्यानी वदतु |
 <img src="pictures/saraswati.jpg" width="200" height="300" /> 
 
 ### प्रश्नं वदतु | उत्तरं अपि वदतु |
