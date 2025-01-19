@@ -67,7 +67,7 @@ https://github.com/samskruthamShikshanthu/sanskritProjects/blob/main/Lessons/san
 https://github.com/samskruthamShikshanthu/sanskritProjects/blob/main/Lessons/samayaha.md
 
 ### Part10
-https://github.com/samskruthamShikshanthu/sanskritProjects/blob/main/Lessons/learnSanskritSeries/part-10/kriyaapadaaha.md
+https://github.com/samskruthamShikshanthu/sanskritProjects/blob/main/Lessons/learnSanskritSeries/part-10/kriyaapadaani.md
 
 
 
