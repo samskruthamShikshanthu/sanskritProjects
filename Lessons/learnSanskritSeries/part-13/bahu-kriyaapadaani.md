@@ -1,4 +1,7 @@
 
+**ఏకవచన క్రియాపదాల కోసం ఈ git link ను సందర్శించండి 
+https://github.com/samskruthamShikshanthu/sanskritProjects/blob/main/Lessons/learnSanskritSeries/part-13/bahu-kriyaapadaani.md**
+
  ### बहुवचनम् 
  प्रथमपुरुष | అర్థం | उत्तमपुरुष  | అర్థం | आज्ञा/प्रार्थना | అర్థం |
 ------------- | ------------- | ------------- | --------- | ------ | ------ |
