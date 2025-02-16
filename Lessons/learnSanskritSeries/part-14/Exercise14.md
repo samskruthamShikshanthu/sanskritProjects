@@ -8,6 +8,9 @@
 भवती नर्तकी अस्ति | ? |
 अहं छात्रा अस्मि | ? |
 
+
+### कति सन्ति?
+
 १.  
      &emsp;<img src="pics\mahila.jpeg" width="160" height="120" />   
      &emsp;<img src="pics\pursushaha.jpeg" width="160" height="120" />   
