@@ -51,8 +51,7 @@
 /><img src="pics/ankani.png" width="160" height="120"
 /><img src="pics/ankani.png" width="160" height="120"
 /><img src="pics/ankani.png" width="160" height="120"
-/>
-<img src="pics/ankani.png" width="160" height="120"
+/><img src="pics/ankani.png" width="160" height="120"
 />
 
 ११. 
