@@ -22,7 +22,8 @@
 ४.  
 <img src="pics/kupi.png" width="160" height="120"/><img src="pics/kupi.png" width="160" height="120"/><img src="pics/kupi.png" width="160" height="120"/><img src="pics/kupi.png" width="160" height="120"/>
 
-५.   
+५.  
+   
 <img src="pics/danthkuurchaha.png" width="160" height="120"/>
 <img src="pics/danthkuurchaha.png" width="160" height="120"/>
 <img src="pics/danthkuurchaha.png" width="160" height="120"/>
