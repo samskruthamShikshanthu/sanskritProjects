@@ -30,7 +30,9 @@
 ६.  
  <img src="pics/kartharyaha.png" width="160" height="120"/> 
 
-७. 
+७.   
+<img src="pics/dwichakrika.png" width="160" height="120"
+/><img src="pics/dwichakrika.png" width="160" height="120"/><img src="pics/dwichakrika.png" width="160" height="120"/><img src="pics/dwichakrika.png" width="160" height="120"/><img src="pics/dwichakrika.png" width="160" height="120"/><img src="pics/dwichakrika.png" width="160" height="120"/><img src="pics/dwichakrika.png" width="160" height="120"/>
 
 ८.  
  <img src="pics/duraavaani.png" width="160" height="120"/><img src="pics/duraavaani.png" width="160" height="120"/><img src="pics/duraavaani.png" width="160" height="120"/><img src="pics/duraavaani.png" width="160" height="120"/> 
