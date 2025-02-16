@@ -41,6 +41,16 @@
 <img src="pics/syutaha.png" width="160" height="120"
 /><img src="pics/syutaha.png" width="160" height="120"/><img src="pics/syutaha.png" width="160" height="120"/><img src="pics/syutaha.png" width="160" height="120"/><img src="pics/syutaha.png" width="160" height="120"/><img src="pics/syutaha.png" width="160" height="120"/><img src="pics/syutaha.png" width="160" height="120"/><img src="pics/syutaha.png" width="160" height="120"/><img src="pics/syutaha.png" width="160" height="120"/>
 
-१०. 
+१०.   
+<img src="pics/ankani.png" width="160" height="120"
+/><img src="pics/ankani.png" width="160" height="120"
+/><img src="pics/ankani.png" width="160" height="120"
+/><img src="pics/ankani.png" width="160" height="120"
+/><img src="pics/ankani.png" width="160" height="120"
+/><img src="pics/ankani.png" width="160" height="120"
+/><img src="pics/ankani.png" width="160" height="120"
+/><img src="pics/ankani.png" width="160" height="120"
+/><img src="pics/ankani.png" width="160" height="120"
+/>
 
 ११. 
