@@ -13,19 +13,22 @@
      &emsp;<img src="pics\pursushaha.jpeg" width="160" height="120" />   
      &emsp;<img src="pics/lotus.png" width="160" height="120" />  
 
-२. <img src="pics/pot.png" width="160" height="120" /><img src="pics/pot.png" width="160" height="120" />
+२.  
+ <img src="pics/pot.png" width="160" height="120" /><img src="pics/pot.png" width="160" height="120" />
 
-३. <img src="pics/ball.png" width="160" height="120"/><img src="pics/ball.png" width="160" height="120"/><img src="pics/ball.png" width="160" height="120"/>
+३.  
+ <img src="pics/ball.png" width="160" height="120"/><img src="pics/ball.png" width="160" height="120"/><img src="pics/ball.png" width="160" height="120"/>
 
-४. 
+४.  
+<img src="pics/kupi.png" width="160" height="120"/><img src="pics/kupi.png" width="160" height="120"/><img src="pics/kupi.png" width="160" height="120"/><img src="pics/kupi.png" width="160" height="120"/>
 
 ५. 
 
-६. <img src="pics/kartharyaha.png" width="160" height="120" /> 
+६. <img src="pics/kartharyaha.png" width="160" height="120"/> 
 
 ७. 
 
-८. 
+८. <img src="pics/duraavaani.png" width="160" height="120"/><img src="pics/duraavaani.png" width="160" height="120"/><img src="pics/duraavaani.png" width="160" height="120"/><img src="pics/duraavaani.png" width="160" height="120"/> 
 
 ९. 
 
