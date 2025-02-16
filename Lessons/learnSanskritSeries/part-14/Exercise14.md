@@ -24,11 +24,13 @@
 
 ५. 
 
-६. <img src="pics/kartharyaha.png" width="160" height="120"/> 
+६.  
+ <img src="pics/kartharyaha.png" width="160" height="120"/> 
 
 ७. 
 
-८. <img src="pics/duraavaani.png" width="160" height="120"/><img src="pics/duraavaani.png" width="160" height="120"/><img src="pics/duraavaani.png" width="160" height="120"/><img src="pics/duraavaani.png" width="160" height="120"/> 
+८.  
+ <img src="pics/duraavaani.png" width="160" height="120"/><img src="pics/duraavaani.png" width="160" height="120"/><img src="pics/duraavaani.png" width="160" height="120"/><img src="pics/duraavaani.png" width="160" height="120"/> 
 
 ९. 
 
