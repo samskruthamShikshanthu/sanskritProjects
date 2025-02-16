@@ -7,3 +7,28 @@
 भवान् गायक: अस्ति | ? |
 भवती नर्तकी अस्ति | ? |
 अहं छात्रा अस्मि | ? |
+
+१.  
+     &emsp;<img src="pics\mahila.jpeg" width="160" height="120" />   
+     &emsp;<img src="pics\pursushaha.jpeg" width="160" height="120" />   
+     &emsp;<img src="pics/lotus.png" width="160" height="120" />  
+
+२. <img src="pics/pot.png" width="160" height="120" /><img src="pics/pot.png" width="160" height="120" />
+
+३. <img src="pics/ball.png" width="160" height="120"/><img src="pics/ball.png" width="160" height="120"/><img src="pics/ball.png" width="160" height="120"/>
+
+४. 
+
+५. 
+
+६. <img src="pics/kartharyaha.png" width="160" height="120" /> 
+
+७. 
+
+८. 
+
+९. 
+
+१०. 
+
+११. 
