@@ -37,7 +37,9 @@
 ८.  
  <img src="pics/duraavaani.png" width="160" height="120"/><img src="pics/duraavaani.png" width="160" height="120"/><img src="pics/duraavaani.png" width="160" height="120"/><img src="pics/duraavaani.png" width="160" height="120"/> 
 
-९. 
+९.  
+<img src="pics/syutaha.png" width="160" height="120"
+/><img src="pics/syutaha.png" width="160" height="120"/><img src="pics/syutaha.png" width="160" height="120"/><img src="pics/syutaha.png" width="160" height="120"/><img src="pics/syutaha.png" width="160" height="120"/><img src="pics/syutaha.png" width="160" height="120"/><img src="pics/syutaha.png" width="160" height="120"/><img src="pics/syutaha.png" width="160" height="120"/><img src="pics/syutaha.png" width="160" height="120"/>
 
 १०. 
 
