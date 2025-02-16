@@ -23,12 +23,9 @@
 <img src="pics/kupi.png" width="160" height="120"/><img src="pics/kupi.png" width="160" height="120"/><img src="pics/kupi.png" width="160" height="120"/><img src="pics/kupi.png" width="160" height="120"/>
 
 ५.  
-   
-<img src="pics/danthkuurchaha.png" width="160" height="120"/>
-<img src="pics/danthkuurchaha.png" width="160" height="120"/>
-<img src="pics/danthkuurchaha.png" width="160" height="120"/>
-<img src="pics/danthkuurchaha.png" width="160" height="120"/>
-<img src="pics/danthkuurchaha.png" width="160" height="120"/>
+
+<img src="pics/danthkuurchaha.png" width="160" height="120"
+/><img src="pics/danthkuurchaha.png" width="160" height="120"/><img src="pics/danthkuurchaha.png" width="160" height="120"/><img src="pics/danthkuurchaha.png" width="160" height="120"/><img src="pics/danthkuurchaha.png" width="160" height="120"/>
 
 ६.  
  <img src="pics/kartharyaha.png" width="160" height="120"/> 
