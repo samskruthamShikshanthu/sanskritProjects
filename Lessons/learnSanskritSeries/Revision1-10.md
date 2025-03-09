@@ -40,7 +40,7 @@
 भक्ता: **एकत्**र उपविशन्ति - భక్తులందరూ **ఒకచోట** కూర్చున్నారు   
 
 ### Part7
-https://github.com/samskruthamShikshanthu/sanskritProjects/blob/main/Lessons/learnSanskritSeries/part-7/kriyaapadaaha.md
+https://github.com/samskruthamShikshanthu/sanskritProjects/blob/main/Lessons/learnSanskritSeries/part-7/kriyaapadaani.md
 
 ### Part8
 షష్ఠీ విభక్తి(अకారాంత పుం నపుం సకలింగములో, आకారంత మరియు ईకారంత స్త్రీలంగాలలో)  
