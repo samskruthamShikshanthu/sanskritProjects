@@ -13,8 +13,6 @@ Sources:
 # ThankYou
 
 # ThankYou
-> Rajesh Rachabattuni
-    >> Samskrita Bharati, USA
 
 > Sincere thank you to Samskrita Bharati, USA.  
 
