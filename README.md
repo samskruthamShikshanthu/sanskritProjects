@@ -12,8 +12,6 @@ Sources:
 
 # ThankYou
 
-# ThankYou
-
 > Sincere thank you to Samskrita Bharati, USA.  
 
 (not sponsered content)
