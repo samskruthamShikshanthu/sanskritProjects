@@ -179,7 +179,9 @@
 &emsp;दशवारं पठितवान्, तथापि न स्मरामि   
 &emsp;&emsp;&emsp;పది సార్లు చదివాను, ఇంకా గుర్తులేదు  
 &emsp;तथापि नूतनम् इव प्रतिभाति   
-&emsp;&emsp;&emsp; ఇంకా కొత్తగా కనిపిస్తుంది   
+&emsp;&emsp;&emsp; ఇంకా కొత్తగా కనిపిస్తుంది  
+
+&emsp;[www.learnsanskrit.cc](https://www.learnsanskrit.cc/translate?search=tathApi&dir=se)
 
 **स्म**  
 *ఇంతకుముందు ఫలానా పని జరుగుతుండేది అని తెలుపటానికి स्म ఉపయోగిస్తారు*   
