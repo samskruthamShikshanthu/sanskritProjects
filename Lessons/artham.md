@@ -169,6 +169,7 @@
 &emsp;&emsp;&emsp;విదేశముయందు ఏదైతే టెక్నాలజీ ఉందో అది భారతదేశము యందు లేదు   
 &emsp;मम समीपे यत् पुस्तकम् अस्ति तत् अन्यत्र नास्ति |  
 &emsp;&emsp;&emsp;నా యొక్క సమీపము యందు ఏదైతే పుస్తకము ఉందో అది వేరొకచోట(మరెక్కడా) లేదు   
+&emsp;[Revision 1-10](https://github.com/samskruthamShikshanthu/sanskritProjects/blob/main/Lessons/learnSanskritSeries/Revision1-10.md)  
 
 **यद्यपि(అయినప్పటికీ) - तथापि(ఇంకా, అప్పుడుకూడా)**    
 &emsp;यद्यपि स: निर्धन: तथापि दानं करोति |  
