@@ -171,6 +171,10 @@
 &emsp;&emsp;&emsp;నా యొక్క సమీపము యందు ఏదైతే పుస్తకము ఉందో అది వేరొకచోట(మరెక్కడా) లేదు   
 &emsp;[Revision 1-10](https://github.com/samskruthamShikshanthu/sanskritProjects/blob/main/Lessons/learnSanskritSeries/Revision1-10.md)  
 
+तत् फलम् 
+तत् सरलसंस्कृतेन अस्ति  
+न शक्यते तत् इति स: वदति |
+
 **यद्यपि(అయినప్పటికీ) - तथापि(ఇంకా, అప్పుడుకూడా)**    
 &emsp;यद्यपि स: निर्धन: तथापि दानं करोति |  
 &emsp;&emsp;&emsp;అతడు పేదవాడు అయినప్పటికీ (ఇంకా/అప్పుడుకూడా) దానం చేస్తున్నాడు   
