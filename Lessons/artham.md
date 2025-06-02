@@ -182,7 +182,7 @@
 &emsp;विदेशे यत् तन्त्रज्ञानम् अस्ति तत् भारते नास्ति |  
 &emsp;&emsp;&emsp;విదేశముయందు ఏదైతే టెక్నాలజీ ఉందో అది భారతదేశము యందు లేదు   
 &emsp;मम समीपे यत् पुस्तकम् अस्ति तत् अन्यत्र नास्ति |  
-&emsp;&emsp;&emsp;నా యొక్క సమీపము యందు ఏదైతే పుస్తకము ఉందో అది వేరొకచోట(మరెక్కడా) లేదు   
+&emsp;&emsp;&emsp;నా దగ్గర (యొక్క సమీపము యందు) ఏదైతే పుస్తకము ఉందో అది వేరొకచోట(మరెక్కడా) లేదు   
 &emsp;[Revision 1-10](https://github.com/samskruthamShikshanthu/sanskritProjects/blob/main/Lessons/learnSanskritSeries/Revision1-10.md)  
 
 &emsp;तत् फलम् - అది పండు   
