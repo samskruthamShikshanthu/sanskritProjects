@@ -23,8 +23,11 @@ Customer - కొంచెం చెక్కెరా.....**
 **Server - తీసుకోండి. మళ్ళీ కావాలా?  
 Customer - చాలు. మళ్ళీ వద్దు.**
 
-*వద్దు - मास्तु  
-చాలు - पर्याप्तम्  
-కావాలి - आवश्यकम्*
+*వద్దు - [मास्तु](https://www.learnsanskrit.cc/translate?search=mAstu&dir=se)  
+&emsp;&emsp;&emsp;भीति: मास्तु |  
+చాలు - [पर्याप्तम्](https://www.learnsanskrit.cc/translate?search=paryAptam&dir=se)   
+&emsp;&emsp;&emsp;केवलं जलं पर्याप्तम् |  
+కావాలి - [आवश्यकम्](https://www.learnsanskrit.cc/translate?search=Avashyakam&dir=se)    
+&emsp;&emsp;&emsp;क: लवणम् आवश्यकम् इति उक्तवान्?*
 
 
