@@ -24,10 +24,10 @@ Customer - కొంచెం చెక్కెరా.....**
 Customer - చాలు. మళ్ళీ వద్దు.**
 
 *వద్దు - [मास्तु](https://www.learnsanskrit.cc/translate?search=mAstu&dir=se)  
-&emsp;&emsp;&emsp;भीति: मास्तु |  
+&emsp;&emsp;&emsp;भीति: मास्तु | భయపడవద్దు   
 చాలు - [पर्याप्तम्](https://www.learnsanskrit.cc/translate?search=paryAptam&dir=se)   
-&emsp;&emsp;&emsp;केवलं जलं पर्याप्तम् |  
+&emsp;&emsp;&emsp;केवलं जलं पर्याप्तम् | కేవలం నీళ్ళు చాలు    
 కావాలి - [आवश्यकम्](https://www.learnsanskrit.cc/translate?search=Avashyakam&dir=se)    
-&emsp;&emsp;&emsp;क: लवणम् आवश्यकम् इति उक्तवान्?*
+&emsp;&emsp;&emsp;क: लवणम् आवश्यकम् इति उक्तवान्? ఎవ్వరు ఉప్పు కావాలి అని అడిగారు?*
 
 
