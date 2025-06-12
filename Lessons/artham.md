@@ -357,6 +357,31 @@
 राम: - रामस्य - रामस्य अपेक्षया ... - రాముని కంటే......  
 सीता - सीताया: - सिताया: अपेक्षया ... - సీత కంటే......
 
+**[अन्तः - లోపల](https://www.learnsanskrit.cc/translate?search=antaH&dir=se)  
+[बाहि: - బయట](https://www.learnsanskrit.cc/translate?search=bahiH&dir=se)**  
+&emsp;<img src="pics\anthaBahi.jpg" width="400" height="300" />  
+
+&emsp;बालक: **कुत्र** अस्ति?  
+&emsp;&emsp;&emsp;బాలుడు **ఎక్కడ** ఉన్నాడు?  
+&emsp;बालक: **बाहि:** अस्ति |  
+&emsp;&emsp;&emsp;బాలుడు **బయట** ఉన్నాడు   
+
+&emsp;बालिका कुत्र अस्ति?  
+&emsp;&emsp;&emsp;బాలికా ఎక్కడ ఉంది?  
+&emsp;बालिका **अन्तः** अस्ति|  
+&emsp;&emsp;&emsp;బాలికా **లోపల** ఉంది   
+
+&emsp;मार्जाल: कुत्र अस्ति?  
+&emsp;&emsp;&emsp;పిల్లి ఎక్కడ ఉంది?  
+&emsp;मार्जाल: **अन्तः** अस्ति |  
+&emsp;&emsp;&emsp;పిల్లి **లోపల** ఉంది   
+
+&emsp;शुनक: कुत्र अस्ति?    
+&emsp;&emsp;&emsp;కుక్క ఎక్కడ ఉంది?  
+&emsp;शुनक: **बाहि:** अस्ति |    
+&emsp;&emsp;&emsp;కుక్క **బయట** ఉంది  
+
+
 
 **बन्धुवाचकशब्दा:**   
 &emsp;पिता - నాన్న  
