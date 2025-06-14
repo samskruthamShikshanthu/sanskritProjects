@@ -140,6 +140,10 @@
 &emsp;&emsp;&emsp;ఇతడు ఎంతైతే పని చేస్తాడో అంత పని రాముడు చేయలేడు  
 &emsp;&emsp;&emsp;ఇతడు చేసినంత పని రాముడు చేయలేడు*  
 
+**[यावत् మొత్తం](https://www.learnsanskrit.cc/translate?search=%E0%A4%AF%E0%A4%BE%E0%A4%B5%E0%A4%A4%E0%A5%8D&dir=au)**
+
+**[तावत् అంత/అంతగా](https://www.learnsanskrit.cc/translate?search=tAvat&dir=se)**
+
 **यथा(ఎలాగైతే) - तथा(అలా)**   
 &emsp;*कथम्? - ఎలా?*  
 &emsp;&emsp;&emsp;*ఎలాగైతే అలా  - यथा तथा*  
