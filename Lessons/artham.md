@@ -124,7 +124,7 @@
 &emsp;&emsp;&emsp;ఏదైనా పాట పాడగలవా?  
    
 
-**यावत्(ఎంతైతే) - तावत्(అంత)**    
+**[यावत्(ఎంతైతే) - तावत्(అంత)](https://www.learnsanskrit.cc/translate?search=tAvat&dir=se)**    
 &emsp;*कियत्? - ఎంత?*  
 &emsp;&emsp;&emsp;*यावत् तावत् - ఎంతైతే అంత*   
 
