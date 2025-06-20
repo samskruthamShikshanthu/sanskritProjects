@@ -222,6 +222,9 @@
 &emsp;&emsp;&emsp;**అప్పుడు** మీరు ఏమి చేస్తున్నారు?  
 
 
+&emsp;&emsp;&emsp;**************************************************
+
+
 **य:(ఎవ్వరైతే) - स:(అతడు)**   
 &emsp;[Revision 1-10](https://github.com/samskruthamShikshanthu/sanskritProjects/blob/main/Lessons/learnSanskritSeries/Revision1-10.md)    
 &emsp;य: क्रीडति स: क्रीडालु:  
