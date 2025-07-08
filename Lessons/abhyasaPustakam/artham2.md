@@ -152,3 +152,11 @@
 &emsp;**मधुर: - తీపి**   
 &emsp;&emsp;&emsp;चाकलेहस्य रुचि: मधुर: - చాకోలేట్ యొక్క రుచి మధురం   
 
+********************************
+
+&emsp;<img src="pics\unnatha-vaamatha.jpeg" width="400" height="300" />
+&emsp;<img src="pics\dirgha-hraswa.jpeg" width="400" height="300" />
+&emsp;<img src="pics\nuuthanam-puraathanam.jpeg" width="400" height="300" />
+&emsp;<img src="pics\sthula-krusha.jpeg" width="400" height="300" />
+&emsp;<img src="pics\bruhath-laghu.jpeg" width="400" height="300" />
+&emsp;<img src="pics\adhikam-kinchith.jpeg" width="400" height="300" />
