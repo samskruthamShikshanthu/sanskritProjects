@@ -1,25 +1,33 @@
 # विरुद्धार्थका: शब्दा:  
 
-&emsp;<img src="pics\unnatha-vaamatha.jpeg" width="400" height="300" />
+&emsp;<img src="pics\unnatha-vaamatha.jpeg" width="400" height="300" />  
 
 **नारिकेलवृक्ष: उन्नत: अस्ति |**  
 **जामबीरवृक्ष: वामन: अस्ति |**  
+*******************************************
+&emsp;<img src="pics\dirgha-hraswa.jpeg" width="400" height="300" />  
+**अ' दण्ड: दीर्घ: अस्ति |**  
+**'ब' दण्ड: ह्रस्व: अस्ति |**    
+*******************************************
+&emsp;<img src="pics\nuuthanam-puraathanam.jpeg" width="400" height="300" />  
 
-&emsp;<img src="pics\dirgha-hraswa.jpeg" width="400" height="300" />
-# 'अ' दण्ड: दीर्घ: अस्ति |
-# 'ब' दण्ड: ह्रस्व: अस्ति |
-&emsp;<img src="pics\nuuthanam-puraathanam.jpeg" width="400" height="300" />
-# युतकं पुरातनम् अस्ति |
-# पुस्तकं नूतनम् अस्ति |
-&emsp;<img src="pics\sthula-krusha.jpeg" width="400" height="300" />
-# गोविन्द: स्थूल: अस्ति |
-# समीर: कृश: अस्ति |
-&emsp;<img src="pics\bruhath-laghu.jpeg" width="400" height="300" />
-# मैसूरु-प्रासादः बृहत् अस्ति |
-# तस्य गृहं लघु: अस्ति |
-&emsp;<img src="pics\adhikam-kinchith.jpeg" width="400" height="300" />
-# द्रोण्याम् अधिकम् जलम् अस्ति |
-# चषके किञ्चित् जलम् अस्ति |
+**युतकं पुरातनम् अस्ति |**  
+**पुस्तकं नूतनम् अस्ति |**  
+*******************************************
+&emsp;<img src="pics\sthula-krusha.jpeg" width="400" height="300" />  
+
+**गोविन्द: स्थूल: अस्ति |**  
+**समीर: कृश: अस्ति |**  
+*******************************************
+&emsp;<img src="pics\bruhath-laghu.jpeg" width="400" height="300" />  
+
+**मैसूरु-प्रासादः बृहत् अस्ति |**  
+**तस्य गृहं लघु: अस्ति |**  
+*******************************************
+&emsp;<img src="pics\adhikam-kinchith.jpeg" width="400" height="300" />  
+
+**द्रोण्याम् अधिकम् जलम् अस्ति |**  
+**चषके किञ्चित् जलम् अस्ति |**    
 
 ***************************************
 
