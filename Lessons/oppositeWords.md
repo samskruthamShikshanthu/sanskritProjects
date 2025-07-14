@@ -38,18 +38,18 @@
 
 &emsp;<img src="pics\bruhath-laghu.jpeg" width="400" height="300" />  
 
-&emsp;एतस्य गृहं **बृहत्** अस्ति |  
+&emsp;एतस्य गृहं **[बृहत्](https://www.learnsanskrit.cc/translate?search=bRhat&dir=se)** अस्ति |  
 &emsp;&emsp;&emsp;ఇతనికి యొక్క గృహం **పెద్దదిగా** ఉంది   
-&emsp;तस्य गृहं **लघु:** अस्ति |  
+&emsp;तस्य गृहं **[लघु:](https://www.learnsanskrit.cc/translate?search=%E0%A4%B2%E0%A4%98%E0%A5%81&dir=au)** अस्ति |  
 &emsp;&emsp;&emsp;అతని యొక్క గృహం **చిన్నదగా** ఉంది    
 
 ***************************************
 
 &emsp;<img src="pics\adhikam-kinchith.jpeg" width="400" height="300" />  
 
-&emsp;द्रोण्याम् **अधिकम्** जलम् अस्ति |  
+&emsp;द्रोण्याम् **[अधिकम्](https://www.learnsanskrit.cc/translate?search=adhika&dir=se)** जलम् अस्ति |  
 &emsp;&emsp;&emsp;బకెట్ లో **ఎక్కువ** నీరు ఉంది   
-&emsp;चषके **किञ्चित्** जलम् अस्ति |  
+&emsp;चषके **[किञ्चित्](https://www.learnsanskrit.cc/translate?search=kiJcit&dir=se)** जलम् अस्ति |  
 &emsp;&emsp;&emsp;గ్లాస్ లో **తక్కువ** నీరు ఉంది   
 
 ***************************************
