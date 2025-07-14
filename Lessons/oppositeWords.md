@@ -29,9 +29,9 @@
 
 &emsp;<img src="pics\sthula-krusha.jpeg" width="400" height="300" />  
 
-&emsp;गोविन्द: **स्थूल:** अस्ति |  
+&emsp;गोविन्द: **[स्थूल:](https://www.learnsanskrit.cc/translate?search=sthUlaH&dir=se)** अस्ति |  
 &emsp;&emsp;&emsp;గోవిందుడు **లావుగా** ఉన్నాడు   
-&emsp;समीर: **कृश:** अस्ति |  
+&emsp;समीर: **[कृश:](https://www.learnsanskrit.cc/translate?search=kRshaH&dir=se)** अस्ति |  
 &emsp;&emsp;&emsp;సమీర్ **బక్కగా** ఉన్నాడు   
 
 ***************************************
