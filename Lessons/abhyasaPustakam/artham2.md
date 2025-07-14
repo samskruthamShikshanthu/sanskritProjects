@@ -160,7 +160,7 @@
 
 **भवान् - నువ్వు/మీరు (పుం)**
 
-&emsp;<img src="pics\vaedyaha.jpeg" width="400" height="300" />  
+&emsp;<img src="pics\vadyaha.jpeg" width="400" height="300" />  
 &emsp;<img src="pics\paachakaha.png" width="400" height="300" />  
 &emsp;<img src="pics\baalakaha.jpeg" width="400" height="300" />  
 ***************************************
