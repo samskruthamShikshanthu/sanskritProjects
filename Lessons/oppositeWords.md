@@ -2,27 +2,27 @@
 
 &emsp;<img src="pics\unnatha-vaamatha.jpeg" width="400" height="300" />  
 
-&emsp;नारिकेलवृक्ष: **उन्नत:** अस्ति |  
+&emsp;नारिकेलवृक्ष: **[उन्नत:](https://www.learnsanskrit.cc/translate?search=unnataH&dir=se)** अस्ति |  
 &emsp;&emsp;&emsp;టెంకాయచెట్టు  **ఎత్తుగా** ఉంది  
-&emsp;जामबीरवृक्ष: **वामन:** अस्ति |  
+&emsp;जामबीरवृक्ष: **[वामन:](https://www.learnsanskrit.cc/translate?search=vAmana&dir=se)** अस्ति |  
 &emsp;&emsp;&emsp;నిమ్మకాయ చెట్టు **పొట్టిగా** ఉంది   
 
 ***************************************
 
 &emsp;<img src="pics\dirgha-hraswa.jpeg" width="400" height="300" />  
 
-&emsp;'अ' दण्ड: **दीर्घ:** अस्ति |  
+&emsp;'अ' दण्ड: **[दीर्घ:](https://www.learnsanskrit.cc/translate?search=dIrghaH&dir=se)** अस्ति |  
 &emsp;&emsp;&emsp;కర్ర **పొడవుగా** ఉంది  
-&emsp;'ब' दण्ड: **ह्रस्व:** अस्ति |  
+&emsp;'ब' दण्ड: **[ह्रस्व:](https://www.learnsanskrit.cc/translate?search=hrasva&dir=se)** अस्ति |  
 &emsp;&emsp;&emsp;కర్ర **చిన్నగా** ఉంది  
 
 ***************************************
 
 &emsp;<img src="pics\nuuthanam-puraathanam.jpeg" width="400" height="300" />  
 
-&emsp;युतकं **पुरातनम्** अस्ति |  
+&emsp;युतकं **[पुरातनम्](https://www.learnsanskrit.cc/translate?search=purAtanam&dir=se)** अस्ति |  
 &emsp;&emsp;&emsp;చొక్కా **పాతది**   
-&emsp;पुस्तकं **नूतनम्** अस्ति |  
+&emsp;पुस्तकं **[नूतनम्](https://www.learnsanskrit.cc/translate?search=nUtana&dir=se)** अस्ति |  
 &emsp;&emsp;&emsp;పుస్తకం **కొత్తది**   
 
 ***************************************
