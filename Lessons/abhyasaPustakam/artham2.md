@@ -152,8 +152,17 @@
 
 ********************************
 
-**भवान् - **
-**भवती**
+**भवती - నువ్వు/మీరు (స్త్రీ)**  
+
+&emsp;<img src="pics\vaedya.png" width="400" height="300" />  
+&emsp;<img src="pics\pachika.jpeg" width="400" height="300" />  
+&emsp;<img src="pics\baalika.jpeg" width="400" height="300" />  
+
+**भवान् - నువ్వు/మీరు (పుం)**
+
+&emsp;<img src="pics\vaedyaha.jpeg" width="400" height="300" />  
+&emsp;<img src="pics\paachakaha.png" width="400" height="300" />  
+&emsp;<img src="pics\baalakaha.jpeg" width="400" height="300" />  
 ***************************************
 
 **[भवति - అవుతుంది](https://www.learnsanskrit.cc/translate?search=%E0%A4%AD%E0%A4%B5%E0%A4%A4%E0%A4%BF&dir=au)**    
