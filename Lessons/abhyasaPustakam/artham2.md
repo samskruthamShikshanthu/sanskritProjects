@@ -273,7 +273,9 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;अद्य भानुवासर:  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;ఈ రోజు ఆదివారం  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;ह्य: शनिवासर:&emsp;&emsp;&emsp;श्व: सोमवासर:  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;నిన్న శనివారం&emsp;&emsp;&emsp;రేపు సోమవారం   
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;నిన్న శనివారం&emsp;&emsp;&emsp;రేపు సోమవారం     
+&emsp;&emsp;&emsp;परह्य: शुक्रवासर:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;परश्व: मङ्गलवासर:  
+&emsp;&emsp;&emsp;మొన్నశుక్రవారం&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;ఎల్లుండి మంగళవారం  
 ***************************************
 **क: का किम्**
 ***************************************
