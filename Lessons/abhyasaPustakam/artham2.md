@@ -271,9 +271,9 @@
 प्रपरह्य: మొన్న కి   ముందు రోజు&emsp;प्रपरश्व: ఎల్లుండి కి మరుసటి రోజు   
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;अद्य भानुवासर:  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;ఈ రోజు ఆదివారం
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;ह्य: शनिवासर:&emsp;&emsp;&emsp;श्व: सोमवासर:
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;నిన్న శనివారం&emsp;&emsp;&emsp;రేపు సోమవారం 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;ఈ రోజు ఆదివారం  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;ह्य: शनिवासर:&emsp;&emsp;&emsp;श्व: सोमवासर:  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;నిన్న శనివారం&emsp;&emsp;&emsp;రేపు సోమవారం   
 ***************************************
 **क: का किम्**
 ***************************************
