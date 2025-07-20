@@ -266,9 +266,9 @@
 ***************************************
 &emsp;<img src="pics\dinam.jpg" width="400" height="300" />   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;अद्य ఈరోజు    
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;श्व: రేపు&emsp;&emsp;&emsp;ह्य: నిన్న  
-&emsp;&emsp;&emsp;परश्व: ఎల్లుండి&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;परह्य: మొన్న   
-प्रपरश्व: ఎల్లుండి కి మరుసటి రోజు &emsp;प्रपरह्य: మొన్న కి   ముందు రోజు  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;ह्य: నిన్న&emsp;&emsp;&emsp;श्व: రేపు  
+&emsp;&emsp;&emsp;परह्य: మొన్న&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;परश्व: ఎల్లుండి   
+प्रपरह्य: మొన్న కి   ముందు రోజు&emsp;प्रपरश्व: ఎల్లుండి కి మరుసటి రోజు   
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;अद्य भानुवासर:
 
