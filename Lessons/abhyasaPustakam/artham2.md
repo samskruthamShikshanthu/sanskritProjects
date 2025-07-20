@@ -265,20 +265,17 @@
 
 ***************************************
 &emsp;<img src="pics\dinam.jpg" width="400" height="300" />   
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;अद्य ఈరోజు    
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;ह्य: నిన్న&emsp;&emsp;&emsp;श्व: రేపు  
-&emsp;&emsp;&emsp;परह्य: మొన్న&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;परश्व: ఎల్లుండి   
-प्रपरह्य: మొన్న కి   ముందు రోజు&emsp;प्रपरश्व: ఎల్లుండి కి మరుసటి రోజు   
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**अद्य ఈరోజు**    
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**ह्य: నిన్న**&emsp;&emsp;&emsp;**श्व: రేపు**  
+&emsp;&emsp;&emsp;**परह्य: మొన్న**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**परश्व: ఎల్లుండి**   
+**प्रपरह्य: మొన్నకి ముందు రోజు**&emsp;**प्रपरश्व: ఎల్లుండికి మరుసటి రోజు**   
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;अद्य भानुवासर:  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;ఈ రోజు ఆదివారం  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;ह्य: शनिवासर:&emsp;&emsp;&emsp;श्व: सोमवासर:  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;నిన్న శనివారం&emsp;&emsp;&emsp;రేపు సోమవారం     
-&emsp;&emsp;&emsp;परह्य: शुक्रवासर:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;परश्व: मङ्गलवासर:  
-&emsp;&emsp;&emsp;మొన్నశుక్రవారం&emsp;&emsp;&emsp;ఎల్లుండి మంగళవారం    
-प्रपरह्य: गुरुवास: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;प्रपरश्व: बुधवासर:  
-మొన్నకి ముందు రోజు గురువారం &emsp; ఎల్లుండికి మరుసటి రోజు బుధవారం  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**अद्य** भानुवासर:  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**ఈ రోజు** ఆదివారం  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**ह्य:** शनिवासर:&emsp;&emsp;&emsp;**श्व:** सोमवासर:  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**నిన్న** శనివారం&emsp;&emsp;&emsp;**రేపు** సోమవారం     
+&emsp;&emsp;&emsp;**परह्य:** शुक्रवासर:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**परश्व:** मङ्गलवासर:  
+&emsp;&emsp;&emsp;**మొన్న** శుక్రవారం&emsp;&emsp;&emsp;**ఎల్లుండి** మంగళవారం    
+**प्रपरह्य:** गुरुवास: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**प्रपरश्व:** बुधवासर:  
+**మొన్నకి ముందు రోజు** గురువారం &emsp; **ఎల్లుండికి మరుసటి రోజు** బుధవారం  
 ***************************************
-**क: का किम्**
-***************************************
-**प्रेषयतु ददातु**  - aagna/prarthana
