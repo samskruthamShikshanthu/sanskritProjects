@@ -38,10 +38,10 @@
 
 &emsp;<img src="pics\bruhath-laghu.jpeg" width="400" height="300" />  
 
-&emsp;एतस्य गृहं **[बृहत्](https://www.learnsanskrit.cc/translate?search=bRhat&dir=se)** अस्ति |  
-&emsp;&emsp;&emsp;ఇతనికి యొక్క గృహం **పెద్దదిగా** ఉంది   
-&emsp;तस्य गृहं **[लघु:](https://www.learnsanskrit.cc/translate?search=%E0%A4%B2%E0%A4%98%E0%A5%81&dir=au)** अस्ति |  
-&emsp;&emsp;&emsp;అతని యొక్క గృహం **చిన్నదగా** ఉంది    
+&emsp;तत् गृहं **[बृहत्](https://www.learnsanskrit.cc/translate?search=bRhat&dir=se)** अस्ति |  
+&emsp;&emsp;&emsp;ఆ గృహం **పెద్దదిగా** ఉంది   
+&emsp;एतत् गृहं **[लघु:](https://www.learnsanskrit.cc/translate?search=%E0%A4%B2%E0%A4%98%E0%A5%81&dir=au)** अस्ति |  
+&emsp;&emsp;&emsp;ఈ గృహం **చిన్నదగా** ఉంది    
 
 ***************************************
 
