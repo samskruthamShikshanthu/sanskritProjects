@@ -250,7 +250,7 @@
 
 **[प्रस्थानं (నిష్క్రమణ, ప్రయాణం Journey, departure)](https://www.learnsanskrit.cc/translate?search=prasthAna&dir=se)**  
 
-&emsp;**कदा भवत: लोकयानस्य प्रयानम्?     
+&emsp;**कदा भवत: लोकयानस्य प्रस्थानं?     
 &emsp;&emsp;&emsp;మీ Bus ఎప్పుడు బయలుదేరుతుంది?  
 &emsp;&emsp;&emsp;When does your bus departure?**
 
