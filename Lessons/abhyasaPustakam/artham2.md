@@ -221,7 +221,7 @@
 
 **[प्रेषयति (పంపుతుంది/ పంపుతున్నాడు)](https://www.learnsanskrit.cc/translate?search=preSayati&dir=se)**  
 &emsp;&emsp;&emsp;**[ददाति (ఇస్తుంది/ఇస్తున్నాడు)](https://www.learnsanskrit.cc/translate?search=dadAti&dir=se)**  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**[नयति (తీసుకువెళ్తుంది/తీసుకవెళ్తున్నాడు)](https://www.learnsanskrit.cc/translate?search=%E0%A4%A8%E0%A4%AF%E0%A4%A4%E0%A4%BF&dir=au)**
+**[नयति (తీసుకువెళ్తుంది/తీసుకవెళ్తున్నాడు)](https://www.learnsanskrit.cc/translate?search=%E0%A4%A8%E0%A4%AF%E0%A4%A4%E0%A4%BF&dir=au)**
 
 &emsp;**सीता धनं प्रेषयति |  
 &emsp;&emsp;&emsp;సీత ధనాన్ని పంపుతున్నది**   
